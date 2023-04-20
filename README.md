@@ -7,10 +7,12 @@ Introductory Training Project (CCS)
   Git is a code repository tool.  Imagine you are a member of a team writing a new piece of software, the team has 50 members.  How do you get the code?  How do you track changes to the code?  What do you do to ensure that changes you make don't delete the changes that other team members have made?
   Repository are a means of allowing a user to make changes to a coding project, identify changes made and by who, document the version history of the application/code, share with all of the other members of a team, and ensure that your changes don't delete your fellow team members code.
   A great place to lookup git commands are located at https://git-scm.com/docs/gittutorial.
+  
 1b. Docker
   Docker is a containerization tool.  Imagine you have been hired as a malware analyst, and you have a windows laptop to do your work, but you need to check an application that only runs on macOs.  How do you check this application?  How do you ensure that the thing you are checking doesn't infect your laptop?  
   What you do is you use a virtual machine, which is a piece of software that basically pretends to be a computer, that is isolated from the host computers OS, meaning that any malicious software on the VM (Virtual Machine) can affect the host computer.
   A containerization tool, is a VM with only the software necissary to run the application you want.  Say you need a database, rather than run a full VM or reconfigure your host machine, just use a containerized version of the database you need.
+  
 1c. Terminal/Command-line
 
 2. Project Steps (Git)
