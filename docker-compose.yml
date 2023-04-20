@@ -1,0 +1,8 @@
+version: "3"
+
+services:
+  # Random Log Generators
+  shoc_log_gen_01:
+    container_name: shoc_log_gen_01
+    build: ./generators/log/01/
+    restart: always
